@@ -453,5 +453,9 @@ html,body {
   margin-right: 5rem;
 }
 .oculto {
+  visibility:hidden;
+  display:none;
+  height: 0; width: 0; overflow: hidden;
   text-indent: -999em;
+  position: absolute; left: -999em;
 }
