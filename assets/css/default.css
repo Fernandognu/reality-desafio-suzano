@@ -452,3 +452,6 @@ html,body {
   width: min-content;
   margin-right: 5rem;
 }
+.oculto {
+  height: 0; width: 0; overflow: hidden;
+}
