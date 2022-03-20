@@ -462,3 +462,6 @@ html,body {
 .titleBlue {
   color: #63b1fc;
 }
+a:focus, a:hover {  
+  border: 2px solid #F00;  
+}   
