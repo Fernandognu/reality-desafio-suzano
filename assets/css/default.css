@@ -463,5 +463,5 @@ html,body {
   color: #63b1fc;
 }
 a:focus, a:hover {  
-  border: 2px solid #F00;  
+  font-size: 110%;
 }   
